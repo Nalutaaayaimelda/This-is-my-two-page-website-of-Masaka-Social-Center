@@ -1,0 +1,67 @@
+body{
+	background-color:#3DE0E7;
+}
+.fa-square-youtube{
+	background-color:#E4620C;
+	color:#66E40C;
+	font-size:90px;
+	padding-left:100px;
+}
+.fa-square-twitter{
+	background-color:#66E40C;
+	color:#E4620C;
+	font-size:90px;
+	padding-left:100px;
+}
+h2{
+	color:#C234E9;
+	text-align:center-left;
+	font-size:3em;
+}
+h1{
+	color:#FE9900;
+	text-align:center;
+	font-style:Arial narrow;
+	font-size:4em;
+}
+h3{
+	color:#ED1C1C;
+	text-align:center-right;
+	font-size:2em;
+}
+#logo{
+	border-radius:150%;
+	width:300px;
+	height:300px;
+}
+.e{
+text-transform:capitalize;
+   text-align:left;
+   font-weight:bold;
+   font-family:Arial bold;
+   color:rgb(242, 85, 86);
+}
+.y{
+	text-decoration:overline;
+    text-align:center;
+	text-shadow:4px 2px #F1CE3E;
+	font-style:italic;
+    line-height:4px;
+	color:#980BBF;
+}
+form{
+	letter-spacing:3px;
+	font-style:italic;
+	display:flex;
+	line-height:2;
+	color:#0933DA;
+	font-size: 3rem;
+	margin-left:15vh
+}
+li{
+	background-color:#C653E7;
+	color:#342DF5;
+}
+.m{
+	color:#D20103;
+}
